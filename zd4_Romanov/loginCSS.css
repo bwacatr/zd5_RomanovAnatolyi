@@ -1,0 +1,39 @@
+﻿label {
+    color: white;
+}
+.frame {
+    background-color: #2e2a2a;
+}
+^contentpage {
+    background-color: #80000000;
+}
+
+#entryBlock 
+{
+    background-color: white;
+    color: black;
+}
+
+#checkBox {
+    background-color: white;
+    color: dimgray;
+}
+
+.login {
+    background-color: transparent;
+    color: #000000;
+}
+
+button {
+    color: white;
+    background-color: red;
+    height: 40;
+}
+
+.entryCalc {
+    background-color: white;
+    color: black;
+}
+
+
+

@@ -3,8 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="zd4_Romanov.Page2"
              Title="Курсы валют">
+    
+    <ContentPage.Resources>
+        <StyleSheet Source="/loginCSS.css"/>
+    </ContentPage.Resources>
+    
     <ContentPage.Content>
-        <Grid Padding="30, 80" RowSpacing="0">
+        <Grid Padding="30, 80" RowSpacing="0" Margin="20,20,20,20" StyleClass="frame">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*" />
                 <RowDefinition Height="500" />
@@ -20,7 +25,7 @@
 
             <StackLayout Grid.Row="2">
                 <Label x:Name="dateText" Text="Текущая дата:" FontSize="Large" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
-                <DatePicker x:Name="DatePickerNow"/>
+                <DatePicker x:Name="DatePickerNow" StyleClass="entryCalc"/>
             </StackLayout>
 
         </Grid>

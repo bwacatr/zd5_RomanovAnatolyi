@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Romanov.Login"
+             >
+    <ContentPage.Resources>
+        <StyleSheet Source="/loginCSS.css"/>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid>
+            
+            <Frame VerticalOptions="Center" Margin="25,0,25,100" StyleClass="frame">
+                
+                <StackLayout>
+                    <Label Text="Добро пожаловать!" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,5,0,10"/>
+
+                    <StackLayout StyleId="entryBlock">
+                        <Entry x:Name="UsernameEntry" Placeholder="Псевдоним" PlaceholderColor="Gray" StyleClass="login"/>
+                       
+                        <Entry x:Name="PasswordEntry" Placeholder="Пароль" PlaceholderColor="Gray" IsPassword="True" StyleClass="login"/>
+                    </StackLayout>
+                    
+                    <Button Text="Войти" FontAttributes="Bold" Clicked="Button_Clicked" Margin="0,10,0,10"/>
+
+                    <Grid>
+                        <StackLayout Grid.Column="0" Orientation="Horizontal" HorizontalOptions="Start">
+                            <CheckBox Margin="0,0,0,0" ClassId="checkBox" Color="White"/>
+                            <Label Text="Запомнить" FontSize="Medium" Margin="0,2,0,0"/>
+                        </StackLayout>
+
+                        <Label Text="Я забыл пароль!" Grid.Column="1" Margin="0,2,0,0" FontSize="Medium" HorizontalOptions="End"/>
+                    </Grid>
+                    
+                </StackLayout>
+            </Frame>
+        </Grid>
+        
+    </ContentPage.Content>
+</ContentPage>

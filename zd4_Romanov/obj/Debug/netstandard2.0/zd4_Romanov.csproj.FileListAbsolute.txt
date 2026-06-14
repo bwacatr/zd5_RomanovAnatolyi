@@ -47,3 +47,6 @@ C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\refint\zd4_Romano
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.pdb
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\ref\zd4_Romanov.dll
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.sourcelink.json
+C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\loginCSS.css.g.cs
+C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\welcome.xaml.g.cs
