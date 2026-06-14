@@ -18,9 +18,6 @@ namespace zd4_Romanov
 			welcomeLabel.Text = "Добро пожаловать, "+login+"!";
 		}
 
-        async private void Button_Clicked(object sender, EventArgs e)
-        {
-			await Navigation.PushModalAsync(new MainPage());
-        }
+        
     }
 }

@@ -36,8 +36,6 @@ C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.cspro
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.GeneratedMSBuildEditorConfig.editorconfig
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\Page1.xaml.g.cs
-C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\Page2.xaml.g.cs
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.AssemblyInfoInputs.cache
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.AssemblyInfo.cs
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.csproj.CoreCompileInputs.cache
@@ -50,3 +48,5 @@ C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\zd4_Romanov.sourc
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\Login.xaml.g.cs
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\loginCSS.css.g.cs
 C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\welcome.xaml.g.cs
+C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\settings.xaml.g.cs
+C:\Games\zd4_romanov-main\zd4_Romanov\obj\Debug\netstandard2.0\settingsCSS.css.g.cs

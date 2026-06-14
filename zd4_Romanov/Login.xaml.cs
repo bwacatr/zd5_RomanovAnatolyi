@@ -21,7 +21,7 @@ namespace zd4_Romanov
         {
 			if (!string.IsNullOrWhiteSpace(UsernameEntry.Text) && !string.IsNullOrWhiteSpace(PasswordEntry.Text))
 			{
-				await Navigation.PushModalAsync(new welcome(UsernameEntry.Text));
+				await Navigation.PushModalAsync(new MainPage(UsernameEntry.Text));
 			}
 			
         }

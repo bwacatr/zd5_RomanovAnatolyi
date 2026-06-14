@@ -23,7 +23,7 @@
             
             <StackLayout Grid.Row="1" VerticalOptions="Center">
                 <Label  x:Name="welcomeLabel" FontAttributes="Bold" FontSize="Large"/>
-                <Button Text="Продолжить" Clicked="Button_Clicked"/>
+                <Label Text="Пролистните направо"/>
             </StackLayout>
             
             <StackLayout Grid.Row="2" VerticalOptions="Center">

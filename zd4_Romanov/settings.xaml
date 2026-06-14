@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_Romanov.settings">
+    <ContentPage.Resources>
+        <StyleSheet Source="settingsCSS.css"/>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="0" HorizontalOptions="Center">
+                <Label Text="Настройки интерфейса" FontSize="Large" StyleId="header"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="1" HorizontalOptions="Center">
+                <Label Text="Выберите день" FontSize="Medium"/>
+                <Picker x:Name="picker1"  StyleId="picker" BackgroundColor="#32a84a" TextColor="White">
+                    <Picker.Items>
+                        <x:String>Понедельник</x:String>
+                        <x:String>Вторник</x:String>
+                        <x:String>Среда</x:String>
+                        <x:String>Четверг</x:String>
+                        <x:String>Пятница</x:String>
+                        <x:String>Суббота</x:String>
+                        <x:String>Воскресенье</x:String>
+                    </Picker.Items>
+                </Picker>
+            </StackLayout>
+
+            <StackLayout Grid.Row="2" HorizontalOptions="Center">
+                <Label Text="Цвет" FontSize="Large" HorizontalOptions="Center"/>
+                <Slider x:Name="SliderEffect1" Minimum="0" Maximum="255"  ValueChanged="EffectsSlider_ValueChanged" MinimumTrackColor="Green" ThumbColor="Green"/>
+                <Slider x:Name="SliderEffect2" Minimum="0" Maximum="255" ValueChanged="EffectsSlider_ValueChanged" MinimumTrackColor="Green" ThumbColor="Green"/>
+                <Slider x:Name="SliderEffect3" Minimum="0" Maximum="255"  ValueChanged="EffectsSlider_ValueChanged" MinimumTrackColor="Green" ThumbColor="Green"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="3" HorizontalOptions="Center" >
+                <Button x:Name="ColorButton" StyleId="reset"/>
+                <Button Text="BUTTON" StyleId="button"/>
+                <Button Text="STATIC" x:Name="StaticBtn"  StyleId="static" Clicked="Button_Clicked"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="4" Orientation="Horizontal" HorizontalOptions="Center">
+                <Switch x:Name="switch1"  StyleClass="switch" ThumbColor="Red" OnColor="Black"/>
+                <Switch x:Name="switch2" StyleClass="switch" ThumbColor="Red" OnColor="Black"/>
+            </StackLayout>
+
+            <StackLayout Grid.Row="5" HorizontalOptions="Center">
+                <Button Text="Сброс" StyleId="reset" Clicked="Button_Clicked_1"/>
+            </StackLayout>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

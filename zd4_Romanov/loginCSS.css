@@ -1,6 +1,8 @@
 ﻿label {
     color: white;
 }
+
+
 .frame {
     background-color: #2e2a2a;
 }
@@ -8,6 +10,7 @@
     background-color: #80000000;
 }
 
+/*Блок с вводимыми данными*/
 #entryBlock 
 {
     background-color: white;
@@ -19,6 +22,7 @@
     color: dimgray;
 }
 
+/*Поле с вводимыми данными пользователя*/
 .login {
     background-color: transparent;
     color: #000000;
@@ -30,6 +34,7 @@ button {
     height: 40;
 }
 
+/*Поле с вводимыми данными калькулятора*/
 .entryCalc {
     background-color: white;
     color: black;

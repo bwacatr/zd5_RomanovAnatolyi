@@ -3,60 +3,60 @@
   "WorkspaceRootPath": "C:\\Games\\zd4_romanov-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\welcome.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\welcome.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\zd4_romanov-main\\zd4_Romanov\\obj\\Debug\\netstandard2.0\\Login.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zd4_Romanov\\obj\\Debug\\netstandard2.0\\Login.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\login.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\logincss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\settingscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\settingscss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\settings.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\settings.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\zd4_romanov-main\\zd4_Romanov\\obj\\Debug\\netstandard2.0\\Login.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zd4_Romanov\\obj\\Debug\\netstandard2.0\\Login.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\zd4_romanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\zd4_romanov.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|c:\\games\\zd4_romanov-main\\zd4_romanov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{627ED5D7-1B7C-4A5C-8E90-ECC79AB9085E}|zd4_Romanov\\zd4_Romanov.csproj|solutionrelative:zd4_romanov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Games\\zd4_romanov-main\\zd4_Romanov\\obj\\Debug\\netstandard2.0\\Page1.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 261,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,46 +78,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "welcome.xaml",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml",
-              "RelativeDocumentMoniker": "zd4_Romanov\\welcome.xaml",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml",
-              "RelativeToolTip": "zd4_Romanov\\welcome.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-14T11:50:12.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\App.xaml",
-              "RelativeDocumentMoniker": "zd4_Romanov\\App.xaml",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\App.xaml",
-              "RelativeToolTip": "zd4_Romanov\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "settings.xaml",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settings.xaml",
+              "RelativeDocumentMoniker": "zd4_Romanov\\settings.xaml",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settings.xaml",
+              "RelativeToolTip": "zd4_Romanov\\settings.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-14T10:55:34.535Z",
+              "WhenOpened": "2026-06-14T12:50:24.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Romanov\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml.cs",
+              "RelativeToolTip": "zd4_Romanov\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:46:51.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Login.xaml.cs",
               "RelativeDocumentMoniker": "zd4_Romanov\\Login.xaml.cs",
               "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Login.xaml.cs",
               "RelativeToolTip": "zd4_Romanov\\Login.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-14T10:55:32.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Login.xaml",
               "RelativeDocumentMoniker": "zd4_Romanov\\Login.xaml",
@@ -130,84 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Page2.xaml.cs",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page2.xaml.cs",
-              "RelativeDocumentMoniker": "zd4_Romanov\\Page2.xaml.cs",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page2.xaml.cs",
-              "RelativeToolTip": "zd4_Romanov\\Page2.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T10:40:13.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Page2.xaml",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page2.xaml",
-              "RelativeDocumentMoniker": "zd4_Romanov\\Page2.xaml",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page2.xaml",
-              "RelativeToolTip": "zd4_Romanov\\Page2.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-13T12:34:16.431Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page1.xaml",
-              "RelativeDocumentMoniker": "zd4_Romanov\\Page1.xaml",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page1.xaml",
-              "RelativeToolTip": "zd4_Romanov\\Page1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-13T12:05:59.174Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "zd4_Romanov\\Page1.xaml.cs",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\Page1.xaml.cs",
-              "RelativeToolTip": "zd4_Romanov\\Page1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:06:15.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "welcome.xaml.cs",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml.cs",
-              "RelativeDocumentMoniker": "zd4_Romanov\\welcome.xaml.cs",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml.cs",
-              "RelativeToolTip": "zd4_Romanov\\welcome.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T11:58:38.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "zd4_Romanov\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\AssemblyInfo.cs",
-              "RelativeToolTip": "zd4_Romanov\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T10:55:36.289Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\App.xaml.cs",
               "RelativeDocumentMoniker": "zd4_Romanov\\App.xaml.cs",
@@ -220,35 +143,101 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml",
+              "RelativeDocumentMoniker": "zd4_Romanov\\MainPage.xaml",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml",
+              "RelativeToolTip": "zd4_Romanov\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T12:04:03.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "settings.xaml.cs",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settings.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Romanov\\settings.xaml.cs",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settings.xaml.cs",
+              "RelativeToolTip": "zd4_Romanov\\settings.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwFEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T12:56:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.xaml",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml",
+              "RelativeDocumentMoniker": "zd4_Romanov\\welcome.xaml",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml",
+              "RelativeToolTip": "zd4_Romanov\\welcome.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-14T11:50:12.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "welcome.xaml.cs",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_Romanov\\welcome.xaml.cs",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\welcome.xaml.cs",
+              "RelativeToolTip": "zd4_Romanov\\welcome.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T11:58:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "zd4_Romanov\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\AssemblyInfo.cs",
+              "RelativeToolTip": "zd4_Romanov\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T10:55:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Page1.xaml.g.cs",
               "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\obj\\Debug\\netstandard2.0\\Page1.xaml.g.cs",
               "RelativeDocumentMoniker": "zd4_Romanov\\obj\\Debug\\netstandard2.0\\Page1.xaml.g.cs",
               "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\obj\\Debug\\netstandard2.0\\Page1.xaml.g.cs",
               "RelativeToolTip": "zd4_Romanov\\obj\\Debug\\netstandard2.0\\Page1.xaml.g.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwDUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-13T12:05:38.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml",
-              "RelativeDocumentMoniker": "zd4_Romanov\\MainPage.xaml",
-              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\MainPage.xaml",
-              "RelativeToolTip": "zd4_Romanov\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-06-13T12:04:03.562Z",
+              "WhenOpened": "2026-06-13T12:05:38.668Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 139,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "zd4_Romanov.csproj",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\zd4_Romanov.csproj",
+              "RelativeDocumentMoniker": "zd4_Romanov\\zd4_Romanov.csproj",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\zd4_Romanov.csproj",
+              "RelativeToolTip": "zd4_Romanov\\zd4_Romanov.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-14T13:47:14.675Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
@@ -264,13 +253,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "settingsCSS.css",
+              "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settingsCSS.css",
+              "RelativeDocumentMoniker": "zd4_Romanov\\settingsCSS.css",
+              "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\settingsCSS.css",
+              "RelativeToolTip": "zd4_Romanov\\settingsCSS.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-14T13:16:08.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "loginCSS.css",
               "DocumentMoniker": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\loginCSS.css",
               "RelativeDocumentMoniker": "zd4_Romanov\\loginCSS.css",
               "ToolTip": "C:\\Games\\zd4_romanov-main\\zd4_Romanov\\loginCSS.css",
               "RelativeToolTip": "zd4_Romanov\\loginCSS.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-06-14T11:24:13.298Z",
               "EditorCaption": ""

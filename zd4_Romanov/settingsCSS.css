@@ -1,0 +1,48 @@
+﻿/* Стили кнопок */
+#button {
+    background-color: #32a84a;
+    color: #ffffff;
+    padding: 2 0 0 0;
+    height: 55;
+    width: 280;
+    border-radius: 30;
+    font-size: 18;
+}
+
+
+
+#static {
+    background-color: #e0e0e0;
+    color: #424242;
+    height: 55;
+    width: 280;
+    border-radius: 30;
+    font-size: 18;
+}
+
+#reset {
+    background-color: #ffffff;
+    color: #546E7A;
+    border-color: #78909C;
+    border-width: 2;
+    height: 55;
+    width: 280;
+    border-radius: 30;
+    font-size: 18;
+}
+
+
+slider {
+width: 280;
+}
+
+
+#picker {
+    width: 280;
+    height: 55;
+}
+
+/*Label с "Настройки интерфейса"*/
+#header {
+    margin: 0,0,20,0;
+}

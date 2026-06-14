@@ -9,11 +9,14 @@ using Xamarin.Forms;
 
 namespace zd4_Romanov
 {
-    public partial class MainPage : TabbedPage
+    public partial class MainPage : CarouselPage
     {
-        public MainPage()
+        public MainPage(string login)
         {
             InitializeComponent();
+
+            this.Children.Add(new welcome(login));
+            this.Children.Add(new settings());
         }
     }
 }
